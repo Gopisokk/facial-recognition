@@ -1,5 +1,7 @@
 Face Recognition Based Attendance Management System
+
 📌 Overview
+
 This project implements an automated attendance management system using Face Recognition. It captures students' faces, stores their data, and marks attendance based on face detection.
 
 🚀 Features
